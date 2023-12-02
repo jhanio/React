@@ -16,7 +16,7 @@ function App() {
       {mostrarTitulo('TEXTO INGRESADO POR FUNCION')}
 
       <hr></hr>
-      <h1>El siguiente titulo de libro fue ingresado por una variable :{title}</h1>
+      <h1>El siguiente titulo de libro fue ingresado por una variable : :{title}</h1>
 
     </div>
 
